@@ -11,6 +11,10 @@ npm-debug.log
 config/local_env.json
 tmp/
 webon.config.json
+.idea/modules.xml
+.idea/newblog.iml
+.idea/vcs.xml
+.idea/workspace.xml
 
 # Created by https://www.gitignore.io/api/osx,node,intellij
 
