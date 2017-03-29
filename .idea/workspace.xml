@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2054a460-5b78-4b7c-a7f5-a1a1838490ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webon.log.json" afterPath="$PROJECT_DIR$/webon.log.json" />
     </list>
     <ignored path="newblog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,8 +93,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="119" />
-    <option name="y" value="23" />
+    <option name="x" value="150" />
+    <option name="y" value="50" />
     <option name="width" value="1246" />
     <option name="height" value="1053" />
   </component>
@@ -226,15 +222,15 @@
       <option name="presentableId" value="Default" />
       <updated>1490756134525</updated>
       <workItem from="1490756135907" duration="610000" />
-      <workItem from="1490758469176" duration="1536000" />
+      <workItem from="1490758469176" duration="1861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2146000" />
+    <option name="totallyTimeSpent" value="2471000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="119" y="23" width="1246" height="1053" extended-state="0" />
+    <frame x="150" y="50" width="1246" height="1053" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17714286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
